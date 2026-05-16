@@ -1,0 +1,16 @@
+# 敏感配置
+config.json
+
+# 构建产物
+dist/
+
+# 依赖
+node_modules/
+
+# 内部文档
+设计方案.md
+docs/
+
+# 系统文件
+.DS_Store
+Thumbs.db

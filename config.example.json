@@ -1,0 +1,13 @@
+{
+  "bucket": "bliss",
+  "endpoint": "https://afda3edd834cca583e0c0331135b3c46.r2.cloudflarestorage.com",
+  "region": "auto",
+  "accessKeyId": "56d7bd39c09243fd87ef536a097479a3",
+  "secretAccessKey": "0275f761b64ce15da2b35b597724263373dabfd163b772e02dc00972ff2b2951",
+  "publicBaseUrl": "https://img.systembliss.dpdns.org",
+  "keyPrefix": "typora/",
+  "namingTemplate": "{keyPrefix}/{YYYY}/{MM}/{DD}/{filename}-{hash8}.{ext}",
+  "cacheControl": "public, max-age=31536000, immutable",
+  "timeoutMs": 20000,
+  "retryTimes": 2
+}
