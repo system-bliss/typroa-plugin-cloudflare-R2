@@ -1,0 +1,1 @@
+# typroa-plugin-cloudflare-R2
